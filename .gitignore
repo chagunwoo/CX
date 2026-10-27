@@ -1,0 +1,16 @@
+# Unreal Engine generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Python cache
+__pycache__/
+*.py[cod]
